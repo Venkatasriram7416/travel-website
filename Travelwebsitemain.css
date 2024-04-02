@@ -1,0 +1,328 @@
+.hero{
+    display: flex;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.nav{
+    width: 300px;
+    height: 50px;
+}
+.navlogo{
+    height: 140px;
+    width: 140px;
+  margin-left: 50px;
+  margin-top: -20px;
+}
+.navdropdown{
+    width: 160px;
+    height: 120px;
+    margin-top: 50px;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.navbtn{
+    background-color:  white;
+    color: black;
+    width: 140px;
+    margin-top: 50px;
+    margin-left: 300px;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    font-size: 17px;
+}
+.navbtn2{
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    width: 100px;
+    margin-top: 50px;
+    font-size: 18px;
+    border: 1px solid white;
+}
+.navh4{
+    color: black;
+  font-family: sans-serif; 
+  font-size: 15px; 
+  margin-top: 55px;  
+
+}
+ .navsignin{
+    color: black;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 55px;
+    margin-left: 70px;
+ }
+
+
+  /* second header */
+  .main{
+    height: 200px;
+    width: 1150px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: 1px solid black;
+  }
+  .mainheader{
+    display: flex;
+  }
+  .mainheaderh41{
+    margin-left: 300px;
+    font-family: sans-serif;
+  }
+  .mainheaderh42{
+    margin-left: 50px;
+    font-family: sans-serif;
+
+  }
+  .mainheaderh43{
+    margin-left: 50px;
+    font-family: sans-serif;
+
+  }
+  .mainheaderh44{
+    margin-left: 50px;
+    font-family: sans-serif;
+
+  }
+  .mainheaderh45{
+    margin-left: 50px;
+    font-family: sans-serif;
+
+  }
+  .mainheaderh46{
+    margin-left: 50px;
+    font-family: sans-serif;
+
+  }
+  .mainhr{
+    margin-top: -10px;
+    color: lightgray;
+  }
+  .searchbar{
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 80px;
+    border: 1px solid lightgray;
+  }
+.date{
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    color: black;
+    background-color: transparent;
+    margin-left: 50px;
+    
+}
+.datelabel{
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: 1px solid lightgray;
+    width: 150px;
+    font-size: 15px;
+    font-family: sans-serif;
+  }
+  .searchbutton{
+    color: white;
+    background-color: blue;
+    margin-left: 40px;
+    font-size: 16px;
+    font-family: sans-serif;
+    border-radius: 10px;
+  }
+  .checkbox{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+/* third page */
+
+.add{
+    height: 90px;
+    width: 1150px;
+    background-color: darkcyan;
+    margin-top: 30px;
+    margin-left: 100px;
+    display: flex;
+    border-radius: 10px;
+}
+.addimg{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+.addh3{
+    padding-left: 30px;
+    padding-top: -40px;
+    color: white;
+    font-size: 16px;
+    padding-top: 10px;
+}
+/* .addbtn{
+    color: white;
+    background-color: blue;
+    font-size: 18px;
+    font-family: sans-serif;
+    height: 35px;
+    width: 80px;
+    border-radius: 7px;
+    margin-top: 30px;
+    margin-right: 50px;
+} */
+.mid{
+    height: 500px;
+    width: 1150px;
+    /* background-color: aquamarine; */
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-image: url("https://a.travel-assets.com/travel-assets-manager/cread-3269/BEX-SpringVIP-HP-Hero-D-928x398.jpg?impolicy=fcrop&w=1400&h=600&q=mediumHigh");
+}
+.midh2{
+    font-size: 45px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.midp{
+    color: white;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding-left: 50px;
+}
+.midbtn{
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-left: 50px;
+    border-radius: 17px;
+}
+.card1h1{
+    margin-left: 100px;
+}
+.cardofcard{
+    display: flex;
+}
+.cards{
+    height: 300px;
+    width: 1200px;
+    margin-left: 100px;
+    display: flex;
+    gap: 20px;
+}
+.cardsbox1{
+    /* margin-left: 100px; */
+    height: 250px;
+    width: 280px;
+}
+.cardimg1{
+    height: 200px;
+    width: 280px;
+}
+.cardh3{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+
+.qrcard{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    height: 300px;
+    width: 1200px;
+    border-radius: 12px;
+}
+.qrcard1{
+    height: 300px;
+    width: 350px;
+    background-image: url("https://a.travel-assets.com/mad-service/footer/bnaBanners/BEX_Footer.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+.qrtext{
+    height: 300px;
+    width: 530px;
+}
+.qrtexth1{
+    margin-top: 25px;
+    margin:30px;
+}
+.qrtextp{
+    margin-top: 20px;
+    margin: 30px;
+}
+.qrtexth3{
+    margin-top: 50px;
+    margin: 30px;
+}
+
+.qrimg{
+ height: 250px;
+ width: 250px;
+ margin-top: 30px;
+ margin-left: 30px;
+ background-image: url("https://a.travel-assets.com/mad-service/qr-code/footer_qr_hp/1_QR_SHEET_CONTROL_FOOTER_HP.png");  
+background-size: cover;
+}
+
+/* fifthone */
+
+.bigimgbox{
+    height:260px;
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+.bigimgcard1{
+    height: 260px;
+    width: 390px;
+    background-image: url("https://res.cloudinary.com/lastminute-contenthub/image/upload/c_limit,h_999999,w_1920/f_auto/q_auto:eco/v1/DAM/Photos/Destinations/Asia/Maldives/shutterstock_128230844.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+.bigimgcard2{
+    height: 260px;
+    width: 390px;
+    background-image: url("https://mma.prnewswire.com/media/2331413/LICENSED_IglooNWT_Paul_Zizka_V1.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+.bigimgcard3{
+    height: 260px;
+    width: 390px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31_62Gl5wLxCeHSXACT27LgF_ItyCl1ZI7mP30G7T4A8ON65r_YJtZXkAJuUWBb9uAiY&usqp=CAU");
+    background-size: cover;
+    border-radius: 10px;
+}
+.footer{
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 50px;
+    width: 80px;
+    background-image: url("https://a.travel-assets.com/globalcontrols-service/content/f285fb631b0a976202ef57611c7050e9ef5ca51a/images/EG_Wordmark_blue_RGB.svg");
+    background-repeat: no-repeat;
+
+}
+.links{
+    display: flex;
+    color: blue;
+    gap:30px;
+    margin-left: 100px;
+}
+
+
+
